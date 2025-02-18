@@ -1,0 +1,1 @@
+"OnlineStore" is a web application developed with ASP.NET Core MVC and an integrated database, representing an e-commerce online store. The project follows the Model-View-Controller (MVC) architecture, ensuring well-structured code, easy maintenance, and scalability.
