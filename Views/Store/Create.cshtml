@@ -1,0 +1,28 @@
+@model StoreEntity
+@{
+    ViewData["Title"] = "Add";
+}
+
+<form asp-action="CreateProduct" asp-controller="Store" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label>Title</label>
+        <input asp-for="Title" type="text" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Category</label>
+        <input asp-for="Category" type="text" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Price</label>
+        <input asp-for="Price" type="number" step="0.01" class="form-control" required />
+    </div>
+    <div class="form-group">
+        <label>Image</label>
+        <input type="file" name="Image" class="form-control" />
+    </div>
+    <div class="form-group">
+        <div asp-validation-summary="All" class="text-danger"></div>
+    </div>
+    <button type="submit" class="btn btn-primary">Create Store</button>
+    <a asp-action="Index" class="btn btn-secondary">Back to List</a>
+</form>

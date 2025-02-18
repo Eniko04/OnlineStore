@@ -1,0 +1,357 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/obj/Debug/net8.0/scopedcss/projectbundle/OnlineShop.bundle.scp.css",
+      "PackagePath": "staticwebassets/OnlineShop.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/image/Apple-WWDC23-Vision-Pro-glass-230605_big.jpg.large.jpg",
+      "PackagePath": "staticwebassets/image/Apple-WWDC23-Vision-Pro-glass-230605_big.jpg.large.jpg"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/image/Apple-iMac-gets-2x-more-performance-03192019_big.jpg.large.jpg",
+      "PackagePath": "staticwebassets/image/Apple-iMac-gets-2x-more-performance-03192019_big.jpg.large.jpg"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/image/MXMN3_VW_34FR+watch-case-42-titanium-gold-cell-s10_VW_34FR+watch-face-42-titanium-gold-s10_VW_34FR.jpeg",
+      "PackagePath": "staticwebassets/image/MXMN3_VW_34FR+watch-case-42-titanium-gold-cell-s10_VW_34FR+watch-face-42-titanium-gold-s10_VW_34FR.jpeg"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/image/Phones.jpg",
+      "PackagePath": "staticwebassets/image/Phones.jpg"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/image/apple-tv-4k-hero-select-202210.jpeg",
+      "PackagePath": "staticwebassets/image/apple-tv-4k-hero-select-202210.jpeg"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/image/delivery-pickup-help-202409_FMT_WHH.png",
+      "PackagePath": "staticwebassets/image/delivery-pickup-help-202409_FMT_WHH.png"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/image/headphones.jpg",
+      "PackagePath": "staticwebassets/image/headphones.jpg"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/image/laptops.jpg",
+      "PackagePath": "staticwebassets/image/laptops.jpg"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/image/og__ck3n0k1jl6j6.png",
+      "PackagePath": "staticwebassets/image/og__ck3n0k1jl6j6.png"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/images/0daccc5f-1a8b-4ec4-abff-389cf4d922c7.jpg",
+      "PackagePath": "staticwebassets/images/0daccc5f-1a8b-4ec4-abff-389cf4d922c7.jpg"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/images/1188a752-2603-4bdf-963d-7692a6daa8dd.jpg",
+      "PackagePath": "staticwebassets/images/1188a752-2603-4bdf-963d-7692a6daa8dd.jpg"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/images/29d6ab56-c84c-4f34-93bf-6bb36fd9a2ef.jpeg",
+      "PackagePath": "staticwebassets/images/29d6ab56-c84c-4f34-93bf-6bb36fd9a2ef.jpeg"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/images/52ff932f-051d-494f-8d32-c07b09caf1eb.jpg",
+      "PackagePath": "staticwebassets/images/52ff932f-051d-494f-8d32-c07b09caf1eb.jpg"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/images/5c9280c9-5b6a-4923-a56d-749c9e42c1ef.jpg",
+      "PackagePath": "staticwebassets/images/5c9280c9-5b6a-4923-a56d-749c9e42c1ef.jpg"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/images/677ea589-4579-4d2d-b641-52c0d5401e4c.jpg",
+      "PackagePath": "staticwebassets/images/677ea589-4579-4d2d-b641-52c0d5401e4c.jpg"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/images/6f5415e3-08f0-479b-90c2-4e94e735a0ec.png",
+      "PackagePath": "staticwebassets/images/6f5415e3-08f0-479b-90c2-4e94e735a0ec.png"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/images/95935fd0-8610-4bf8-a6dc-c0e4f5dcd31f.jpg",
+      "PackagePath": "staticwebassets/images/95935fd0-8610-4bf8-a6dc-c0e4f5dcd31f.jpg"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/images/99b57131-1bfa-4ffe-b889-5cdf4b04fa5a.jpeg",
+      "PackagePath": "staticwebassets/images/99b57131-1bfa-4ffe-b889-5cdf4b04fa5a.jpeg"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/images/9ccecd01-472d-4870-8dcf-0b83f2a88afa.png",
+      "PackagePath": "staticwebassets/images/9ccecd01-472d-4870-8dcf-0b83f2a88afa.png"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/images/ab649f75-5481-4a9e-9322-5ca98cb53a43.jpg",
+      "PackagePath": "staticwebassets/images/ab649f75-5481-4a9e-9322-5ca98cb53a43.jpg"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/images/d32fc26f-1dbd-45de-919d-421afcbd3892.jpg",
+      "PackagePath": "staticwebassets/images/d32fc26f-1dbd-45de-919d-421afcbd3892.jpg"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/images/ea4da47e-e345-4981-a2c9-ce37f2630176.jpg",
+      "PackagePath": "staticwebassets/images/ea4da47e-e345-4981-a2c9-ce37f2630176.jpg"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/images/fd548bde-aded-485f-bc1b-947e7aa478e9.jpg",
+      "PackagePath": "staticwebassets/images/fd548bde-aded-485f-bc1b-947e7aa478e9.jpg"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/enizali/Desktop/OnlineShop/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.OnlineShop.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.OnlineShop.props",
+      "PackagePath": "build\\OnlineShop.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.OnlineShop.props",
+      "PackagePath": "buildMultiTargeting\\OnlineShop.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.OnlineShop.props",
+      "PackagePath": "buildTransitive\\OnlineShop.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

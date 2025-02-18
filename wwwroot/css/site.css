@@ -1,0 +1,56 @@
+/* Единен стил за всички бутони */
+.btn {
+  background-color: #6c757d; /* Сив цвят */
+  color: white;
+  border: none;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #5a6268; /* По-тъмен сив цвят при hover */
+  color: white;
+}
+
+/* Уникален стил за малките бутони (например в таблицата) */
+.btn-sm {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+  border-radius: 0.2rem;
+}
+
+/* Фокусиране на бутоните */
+.btn:focus {
+  outline: none;
+  box-shadow: 0 0 0 0.2rem rgba(108, 117, 125, 0.5);
+}
+
+.navbar-nav .nav-link {
+  font-size: 1.2rem; /* Увеличен размер на текста */
+  font-weight: 600; /* Полу-дебел шрифт */
+  color: #333; /* По-тъмен цвят за по-добра четимост */
+  text-transform: uppercase; /* Превръщане в главни букви */
+  margin: 0 10px; /* Пространство между линковете */
+}
+
+.navbar-nav .nav-link:hover, 
+.navbar-nav .nav-link:focus {
+  color: #0056b3; /* Ярък син цвят при hover */
+  text-decoration: none; /* Премахване на подчертаването */
+}
+
+.navbar-brand {
+  font-size: 1.5rem; /* Увеличен размер на шрифта за OnlineShop */
+  font-weight: 700; /* Дебел шрифт */
+  color: #000; /* Черен цвят */
+}
+
+.navbar-brand:hover, 
+.navbar-brand:focus {
+  color: #0056b3; /* Ярък син цвят при hover */
+  text-decoration: none;
+}
+
+
+
+
+

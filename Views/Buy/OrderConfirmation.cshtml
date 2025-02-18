@@ -1,0 +1,31 @@
+@model StoreEntity
+
+@{
+    ViewData["Title"] = "Order Confirmation";
+}
+
+<h2>Order Confirmation</h2>
+
+<div class="alert alert-success">
+    @ViewBag.Message
+</div>
+
+<div class="card">
+    <div class="card-header">
+        <h3>Order Details</h3>
+    </div>
+    <div class="card-body">
+        <p><strong>Product:</strong> @Model.Title</p>
+        <p><strong>Price:</strong> @Model.Price.ToString("C")</p>
+        <p><strong>Category:</strong> @Model.Category</p>
+        @if (!string.IsNullOrEmpty(Model.ImagePath))
+        {
+            <img src="@Model.ImagePath" alt="@Model.Title" class="img-thumbnail" style="width: 200px;" />
+        }
+        <hr />
+        <p><strong>Customer Name:</strong> @ViewBag.CustomerName</p>
+        <p><strong>Shipping Address:</strong> @ViewBag.Address</p>
+        <p><strong>Payment Method:</strong> @ViewBag.PaymentMethod</p>
+        <p><strong>Phone Number:</strong> @ViewBag.PhoneNumber</p>
+    </div>
+</div>
